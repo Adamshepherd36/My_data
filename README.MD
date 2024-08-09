@@ -19,7 +19,7 @@ This repository contains various data sets that I use for my projects and practi
       - [COVID-19](https://ourworldindata.org/covid-deaths)
 
 - **Power BI**
-      - [Data Professional Survey](https://github.com/Adamshepherd36/My_data/blob/main/AnalyticsCareer_Data.xlsx)
+- [Data Professional Survey](https://github.com/Adamshepherd36/My_data/blob/main/AnalyticsCareer_Data.xlsx)
 
 - **Excel**
       - [Bike Sales](https://github.com/Adamshepherd36/My_data/blob/main/Bike%20Sales%20Data.xlsx)
