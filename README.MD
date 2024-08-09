@@ -2,8 +2,8 @@
 
 This repository contains various data sets that I use for my projects and practice. The data sets are organized into different categories based on their source or type. Feel free to use these data sets for your own projects or learning purposes.
 
-## Table of Contents for the Data
-   - Python
+## Data Contents
+   - **Python**
       - [Analysis of Major Bank Stocks Performance from 2006 to 2016](https://www.google.com/finance/?hl=en)
       - [Correlation Analysis of Movie Dataset](https://github.com/Adamshepherd36/My_data/blob/main/Movies_data.csv)
       - [Predicting Loan Repayment for Lending Club Data](https://www.kaggle.com/datasets/epsilon22/lending-club-loan-two)  
@@ -12,16 +12,16 @@ This repository contains various data sets that I use for my projects and practi
       - [K-Means Clustering on College Data](https://github.com/Adamshepherd36/My_data/blob/main/College_Data) 
       - [K-Nearest Neighbors Classification on Customer Data](https://github.com/Adamshepherd36/My_data/blob/main/KNN_Project_Data)
 
-  - SQL
+  - **SQL**
       - [COVID-19](https://ourworldindata.org/covid-deaths)
 
-  - Tableau
+  - **Tableau**
       - [COVID-19](https://ourworldindata.org/covid-deaths)
 
-- Power BI
+- **Power BI**
       - [Data Professional Survey](https://github.com/Adamshepherd36/My_data/blob/main/AnalyticsCareer_Data.xlsx)
 
-- Excel
+- **Excel**
       - [Bike Sales](https://github.com/Adamshepherd36/My_data/blob/main/Bike%20Sales%20Data.xlsx)
       - [Financial Performance](https://github.com/Adamshepherd36/My_data/blob/main/Financial%20P%26L%2C%20BS%20Data.xlsx)
   
