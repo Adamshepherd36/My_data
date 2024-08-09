@@ -17,7 +17,7 @@ This repository contains various data sets that I use for my projects and practi
 
   - **Tableau**
       - [COVID-19](https://ourworldindata.org/covid-deaths)
-      - [Data Emergency Room Visits] (https://github.com/Adamshepherd36/My_data/blob/main/Hospital%20ER.csv)
+      - [Data Emergency Room Visits](https://github.com/Adamshepherd36/My_data/blob/main/Hospital%20ER.csv)
 
 - **Power BI**
    - [Data Professional Survey](https://github.com/Adamshepherd36/My_data/blob/main/AnalyticsCareer_Data.xlsx)
