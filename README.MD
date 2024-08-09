@@ -10,7 +10,7 @@ This repository contains various data sets that I use for my projects and practi
       - [Sentiment Analysis on Yelp Reviews](https://github.com/Adamshepherd36/My_data/blob/main/yelp.csv)  
       - [Linear Regression Analysis on E-commerce Customer Data](https://github.com/Adamshepherd36/My_data/blob/main/Ecommerce_Customers)  
       - [K-Means Clustering on College Data](https://github.com/Adamshepherd36/My_data/blob/main/College_Data) 
-      - [K-Nearest Neighbors Classification on Customer Data](https://github.com/Adamshepherd36/My_data/blob/main/KNN_Project_Data)   
+      - [K-Nearest Neighbors Classification on Customer Data](https://github.com/Adamshepherd36/My_data/blob/main/KNN_Project_Data)
 
   - SQL
       - [COVID-19](https://ourworldindata.org/covid-deaths)
