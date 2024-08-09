@@ -13,7 +13,7 @@ This repository contains various data sets that I use for my projects and practi
       - [K-Nearest Neighbors Classification on Customer Data](https://github.com/Adamshepherd36/My_data/blob/main/KNN_Project_Data)   
   - SQL
       - [COVID-19](https://ourworldindata.org/covid-deaths)
-- Tableau
+  - Tableau
       - [COVID-19](https://ourworldindata.org/covid-deaths)
 - Power BI
       - [Data Professional Survey](https://github.com/Adamshepherd36/My_data/blob/main/AnalyticsCareer_Data.xlsx)
