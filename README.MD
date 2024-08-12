@@ -16,6 +16,7 @@ This repository contains various data sets that I use for my projects and practi
 
   - **SQL**
       - [COVID-19](https://ourworldindata.org/covid-deaths)
+      - [OCD Patients](https://github.com/Adamshepherd36/My_data/blob/main/OCD%20Patient%20Dataset.csv)
 
   - **Tableau**
       - [COVID-19](https://ourworldindata.org/covid-deaths)
@@ -24,8 +25,10 @@ This repository contains various data sets that I use for my projects and practi
 
 - **Power BI**
    - [Data Professional Survey](https://github.com/Adamshepherd36/My_data/blob/main/AnalyticsCareer_Data.xlsx)
+   - [OCD Patients](https://github.com/Adamshepherd36/My_data/blob/main/OCD%20Patient%20Dataset.csv)
 
 - **Excel**
    - [Bike Sales](https://github.com/Adamshepherd36/My_data/blob/main/Bike%20Sales%20Data.xlsx)
    - [Financial Performance](https://github.com/Adamshepherd36/My_data/blob/main/Financial%20P%26L%2C%20BS%20Data.xlsx)
+   - [OCD Patients](https://github.com/Adamshepherd36/My_data/blob/main/OCD%20Patient%20Dataset.csv)
   
